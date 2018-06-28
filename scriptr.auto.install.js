@@ -1,2 +1,2 @@
 var channels = require("channel");
-return channels.createChannel("channelFromM1");
+return channels.create("channelFromM1");
